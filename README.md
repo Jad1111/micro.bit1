@@ -2,7 +2,7 @@
 
 This is a repository that contains the code of our microbit exploration project.
 
-## Who  !!
+## Who
 
 Developed by Rowan, Jad, Atlas, and Kouya
 
