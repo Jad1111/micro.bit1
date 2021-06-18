@@ -4,7 +4,7 @@ This is a repository that contains the code of our microbit exploration project.
 
 ## Who  !!
 
-Developed by...
+Developed by Rowan, Jad, Atlas, and Kouya
 
 ## What
 
