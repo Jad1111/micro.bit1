@@ -1,4 +1,4 @@
-rom microbit import *
+from microbit import *
 import music
 #music.play(music.BIRTHDAY)
 
